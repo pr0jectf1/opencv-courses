@@ -20,3 +20,4 @@ n = len(bbox)
 resultImagePath = "../images/QRCode-Output.png"
 cv2.imwrite(resultImagePath,img)
 plt.imshow(img)
+
